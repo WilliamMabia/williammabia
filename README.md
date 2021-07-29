@@ -9,7 +9,7 @@ I'm in Computer Science at [Wilfrid Laurier University](https://www.wlu.ca) 🤓
 Interests: coding and design 🍄 <br>
 Languages: [Java, C, Python, Html/Css, JavaScript, Swift] <br><br>
 
-[![William's github stats](https://github-readme-stats.vercel.app/api?username=william mabia)](https://github.com/williammabia/github-readme-stats)
+[![William's github stats](https://github-readme-stats.vercel.app/api?username=williammabia)](https://github.com/williammabia/github-readme-stats)
 
 
 
