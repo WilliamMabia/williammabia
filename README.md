@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 Hi, I’m Will 👨🏽‍💻 
 ----------------
 I'm in Computer Science at [Wilfrid Laurier University](https://www.wlu.ca) 🤓 <br>
-Interests: coding and design <br>
+Interests: coding and design 🍄 <br>
 Languages: [Java, C, Python, Html/Css, JavaScript, Swift] <br><br>
 
 [![William's github stats](https://github-readme-stats.vercel.app/api?username=williammabia)](https://github.com/williammabia/github-readme-stats)
